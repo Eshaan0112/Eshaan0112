@@ -1,7 +1,7 @@
 ## Introduction
 Welcome to my Github profile!
 
-I'm Eshaan Minocha, an Associate Data Scientist at The Goodyear Tire and Rubber Company. I graduated from Purdue University in May 2024 with a Master's in Computer Engineering. I have experience working in software development and machine learning.
+I'm Eshaan Minocha, an Associate Data Scientist at The Goodyear Tire and Rubber Company. I graduated from Purdue University in May 2024 with a Master's in Computer Engineering. I have experience working in software development and machine learning. I have a good understanding of end to end designing of ML applications and how they fit with system design in the industry.
 
 **I’m currently looking for _Full time Early Career Machine Learning/Data Science/AI Engineering_ roles.**
 
@@ -31,3 +31,9 @@ I am open to collaboration on research or projects in any field of Machine Learn
 * Facilitated asynchronous communication with browser clients to send JSON messages for different types of handlers 
 * Deployed an Express server implementation to serve browser clients a frontend to interface with backend modules 
 * Developed Typescript/Javascript based frontend pages to interface with backend Python modules
+
+## Skills
+* Programming Languages: Python, Bash, TypeScript/JavaScript, C
+* Libraries: Tensorflow, GPFlow, XGBoost, LightGBM, Poetry, Pyomo, FastAPI, Pandas, Scikit-Learn, Matplotlib 
+* Tools: Git, Slurm (for HPCs), WSL, Linux 
+* Data and Dashboarding: AWS, Snowflake, SAP
