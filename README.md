@@ -7,7 +7,7 @@ I'm Eshaan Minocha, an Associate Data Scientist at The Goodyear Tire and Rubber 
 
 You can find my most interesting projects and competitions in the pinned section of my profile. 
 
-I am open to collaboration on research or projects in any field of Machine Learning. Please don't hesitate to reach out to me via my _email: eshaanminocha0112@gmail.com_
+I am open to collaboration on research or projects in any field of Machine Learning. Please don't hesitate to reach out to me via my email: _eshaanminocha0112@gmail.com_
 
 ## Professional experiences
 
