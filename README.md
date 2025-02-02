@@ -1,4 +1,4 @@
-**You can find my most interesting projects and competitions in the pinned section of my profile**
+**You can find my most interesting projects in the pinned section of my profile**
 ## Introduction
 Welcome to my Github profile!
 
