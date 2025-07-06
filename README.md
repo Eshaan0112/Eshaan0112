@@ -1,6 +1,6 @@
 **You can find my most interesting projects in the pinned section of my profile**
 ## Introduction
-Welcome to my Github profile!
+Welcome to my Github profile! If you want to know more about me, check out my portfolio - https://eshaan0112.github.io/personal_website/
 
 I'm Eshaan Minocha, an Associate Data Scientist at The Goodyear Tire and Rubber Company. I graduated from Purdue University in May 2024 with a Master's in Computer Engineering. I have experience working in software development and machine learning. I also have a good understanding of end to end designing of ML applications and how they fit with system design in the industry.
 
